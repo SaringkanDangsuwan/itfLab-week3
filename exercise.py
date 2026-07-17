@@ -1,0 +1,1 @@
+print("Saringkan Dangsuwan", "69070192")
